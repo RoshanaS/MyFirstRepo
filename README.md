@@ -1,2 +1,2 @@
-MyFirstRepo
+MyFirstRepo on GitHub
 ===========
